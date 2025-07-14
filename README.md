@@ -15,4 +15,4 @@ Mega Man X8 16-bit is a reimagining of the PS2 original with SNES styled graphic
 Mega Man X8 16-bit is a free fangame. It is not affiliated, associated, authorized, endorsed or in any way connected with CAPCOM or any of it's subsidiaries or it's affiliates.
 
 Mega Man X and all Mega Man/Rockman material is a property of CAPCOM.
-Please support the offical release.
+Please support the official release.
